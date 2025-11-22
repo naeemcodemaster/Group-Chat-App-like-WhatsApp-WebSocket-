@@ -67,12 +67,4 @@ git push -u origin main
 
 Replace `https://github.com/naeemcodemaster/Group-Chat-App-like-WhatsApp-WebSocket-` with your repository name. You can also create the repo on GitHub first and then add the remote URL instead of using `gh`.
 
----
 
-If you want, I can also:
-
-- Add a `start` script to `backend/package.json` (so you can run `npm start`).
-- Add `README.md` files inside `frontend/` and `backend/` with service-specific details.
-- Create a `.gitignore` (if missing) and a simple `Procfile` or Dockerfile for deployment.
-
-Let me know which of the above you'd like next.
